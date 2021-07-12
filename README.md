@@ -14,5 +14,5 @@ https://user-images.githubusercontent.com/54354364/125218707-3768ca00-e2e3-11eb-
 
 
 
-All the data in this app is fetched throught the TMDB API : https://developers.themoviedb.org/3
+All the data in this app is fetched through the TMDB API : https://developers.themoviedb.org/3
 
