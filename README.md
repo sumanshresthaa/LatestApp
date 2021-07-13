@@ -31,20 +31,20 @@ All the data in this app is fetched through the TMDB API : https://developers.th
 
 Pictures.
 
-<img src="https://user-images.githubusercontent.com/54354364/125390295-5ab67680-e3c2-11eb-9e6e-3335c4724939.png" width="48">
+<img src="https://user-images.githubusercontent.com/54354364/125390295-5ab67680-e3c2-11eb-9e6e-3335c4724939.png" width="100">
 
 
-<img src="https://user-images.githubusercontent.com/54354364/125390315-64d87500-e3c2-11eb-8080-f5a5c3a9ceef.png" width="48">
+<img src="https://user-images.githubusercontent.com/54354364/125390315-64d87500-e3c2-11eb-8080-f5a5c3a9ceef.png" width="100">
 
 
-<img src="https://user-images.githubusercontent.com/54354364/125390326-6bff8300-e3c2-11eb-95f4-ea9b9ae93444.png" width="48">
+<img src="https://user-images.githubusercontent.com/54354364/125390326-6bff8300-e3c2-11eb-95f4-ea9b9ae93444.png" width="100">
 
 
-<img src="https://user-images.githubusercontent.com/54354364/125390356-79b50880-e3c2-11eb-8267-54573f39f112.png" width="48">
+<img src="https://user-images.githubusercontent.com/54354364/125390356-79b50880-e3c2-11eb-8267-54573f39f112.png" width="100">
 
 
-<img src="https://user-images.githubusercontent.com/54354364/125390403-8fc2c900-e3c2-11eb-8baa-c3176504fed5.png" width="48">
+<img src="https://user-images.githubusercontent.com/54354364/125390403-8fc2c900-e3c2-11eb-8baa-c3176504fed5.png" width="100">
 
 
-<img src="https://user-images.githubusercontent.com/54354364/125390408-92bdb980-e3c2-11eb-9e7d-68ab39084a2f.png" width="48">
+<img src="https://user-images.githubusercontent.com/54354364/125390408-92bdb980-e3c2-11eb-9e7d-68ab39084a2f.png" width="100">
 
