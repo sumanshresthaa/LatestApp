@@ -11,7 +11,10 @@ Get all the latest information about the trending movies and tv series.
 https://user-images.githubusercontent.com/54354364/125217746-2454fa80-e2e1-11eb-8dcf-3340d40a82ed.mp4
 
 2. Search for your favourite movie with more personalised search.
+
+
 https://user-images.githubusercontent.com/54354364/125218351-7e09f480-e2e2-11eb-8100-00dbdbb9b73b.mp4
+
 
 ![Screenshot_1626150172](https://user-images.githubusercontent.com/54354364/125390326-6bff8300-e3c2-11eb-95f4-ea9b9ae93444.png)
 
@@ -21,7 +24,11 @@ https://user-images.githubusercontent.com/54354364/125218351-7e09f480-e2e2-11eb-
 
 
 3. Get the details about the movie and watch the trailer as well.
+
+
 https://user-images.githubusercontent.com/54354364/125218707-3768ca00-e2e3-11eb-9b8e-aae76d858721.mp4
+
+
 ![Screenshot_1626150192](https://user-images.githubusercontent.com/54354364/125390403-8fc2c900-e3c2-11eb-8baa-c3176504fed5.png)
 
 
