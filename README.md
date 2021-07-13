@@ -3,8 +3,8 @@ Get all the latest information about the trending movies and tv series.
 
 
 1. Find all the highest rated movies and tv shows in the home page.
-![Screenshot_1626150092](https://user-images.githubusercontent.com/54354364/125390295-5ab67680-e3c2-11eb-9e6e-3335c4724939.png | width=100)
 
+<img src="https://user-images.githubusercontent.com/54354364/125390295-5ab67680-e3c2-11eb-9e6e-3335c4724939.png" width="48">
 
 ![Screenshot_1626150098](https://user-images.githubusercontent.com/54354364/125390315-64d87500-e3c2-11eb-8080-f5a5c3a9ceef.png | width=100)
 
