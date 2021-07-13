@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/54354364/125218707-3768ca00-e2e3-11eb-
 All the data in this app is fetched through the TMDB API : https://developers.themoviedb.org/3
 
 
-Pictures.
+Images:
 
 <img src="https://user-images.githubusercontent.com/54354364/125390295-5ab67680-e3c2-11eb-9e6e-3335c4724939.png" width="300">
 
